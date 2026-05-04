@@ -1,4 +1,4 @@
-# CS2 Dissertation for Detecting Teammate Influence in Professional CS2
+—# CS2 Dissertation for Detecting Teammate Influence in Professional CS2
 
 Code for my BSc dissertation. Collects professional CS2 match data from HLTV via Liquipedia tournament discovery, then runs a statistical analysis pipeline to detect and measure teammate influence on individual player performance.
 
@@ -17,10 +17,10 @@ pip install -r requirements.txt
 ```
 
 **requirements.txt covers:**
-- `pandas`, `numpy`, `scikit-learn` — data handling and modelling
-- `scipy`, `statsmodels` — statistical tests and regressions
-- `matplotlib` — plots
-- `requests` — API calls
+- `pandas`, `numpy`, `scikit-learn` - data handling and modelling
+- `scipy`, `statsmodels` - statistical tests and regressions
+- `matplotlib` - plots
+- `requests` - API calls
 ---
 
 ## Usage
