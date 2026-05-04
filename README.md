@@ -81,9 +81,9 @@ Key flags:
 ## Output
 
 The main outputs are:
-- `rapm_scores.csv` — RAPM scores for all eligible players
-- `indirect_teammate_impact.csv` — ITI scores
-- `multi_outcome_uplift.csv` — pairwise uplift results
-- `roster_change_events.csv` — roster change event study
-- `prediction_metrics.csv` — model comparison metrics
-- `report_summary.md` — summary report
+- `rapm_scores.csv` - RAPM scores for all eligible players
+- `indirect_teammate_impact.csv` - ITI scores
+- `multi_outcome_uplift.csv` - pairwise uplift results
+- `roster_change_events.csv` - roster change event study
+- `prediction_metrics.csv` - model comparison metrics
+- `report_summary.md` - summary report
