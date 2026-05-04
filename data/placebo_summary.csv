@@ -1,0 +1,2 @@
+outcome,n_iterations,n_real_pairs,n_placebo_observations,real_mean_abs_t,real_median_abs_t,placebo_mean_abs_t,placebo_median_abs_t,real_p95_abs_t,placebo_p95_abs_t,real_sig_rate,placebo_sig_rate,ratio_real_to_placebo_mean_abs_t
+rating,100,4832,344911,1.346209383152524,1.0800785121540821,1.0431563256419616,0.8620749533547016,3.5471301546375957,2.628567777060006,0.23054635761589404,0.12731400274273652,1.2905154769819016

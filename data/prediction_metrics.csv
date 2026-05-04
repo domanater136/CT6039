@@ -1,0 +1,4 @@
+model,mae,rmse,win_loss_accuracy
+Zero Baseline,5.4286,6.1083,0.4532
+Model 1: Individual RAPM,5.123,6.0417,0.571
+Model 2: Joint RAPM + Pair Interactions,5.1537,5.9733,0.5744
